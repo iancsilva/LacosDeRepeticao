@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="LacosDeRepeticao/LacosDeRepeticao.csproj" />
+  <Project Path="Fatorial/Fatorial.csproj" Id="431f7a73-a0b1-4e97-b1bd-1d4ca12c2449" />
+  <Project Path="LacosDeRepeticao/LacosDeRepeticoes.csproj" />
+  <Project Path="NumerosParesEImparesEmOrdem/NumerosParesEImparesEmOrdem.csproj" Id="89709c6d-dada-4646-8d35-2d4410411cf1" />
+  <Project Path="NumerosPrimos/NumerosPrimos.csproj" Id="0ebf22a8-6397-4e91-b1fc-aede00db7816" />
+  <Project Path="SequenciaFibonacci/SequenciaFibonacci.csproj" Id="a3f1e058-4290-45a8-9ad8-f1dee7d365a4" />
+  <Project Path="Tabuada/Tabuada.csproj" Id="b4f92dfd-929f-4f69-9f80-eee6029e5478" />
 </Solution>
